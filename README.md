@@ -1,2 +1,2 @@
 # BluetoothReadFromArduino
-A program to read some specific information from an arduino
+A program that uses a serial monitor to communicate with an arduino over bluetooth and recieve specific information.
